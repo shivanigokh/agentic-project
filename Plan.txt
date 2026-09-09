@@ -4,13 +4,17 @@ Problem 1. Everyone, with the surge of new health, fitness, and wellness trends,
 started eating more consciously. This arises the problem of easily tracking your meals and
 macro ammounts. I have faced this problem as well and want to build an AI meals tracker that
 knows what is there for brekfast, lunch, and dinner and allows you to add extra things that you
-consumed in a day as well.
+consumed in a day as well. 
+
+shivani comments - good idea but overdone
 
 Problem 2. Students want to be productive with their time, make money and get industry 
 experience. The market for helping prospect interns, find these internship places are heavily
 saturated, disorganised, and require better key word SEO. I would like to build an Agentic AI
 that scrapes the internet for these opportunities (eg. on google, linkedin, internshalla etc.)
 based on particular and precise keywords that you input.
+
+shivani comments - yes
 
 Problem 3. I beleive that Indians are naturally patriotic. I personally love my country and
 hate seeing it go to ruin. I have, on countless occasions thought about starting an NGO which will go
@@ -20,3 +24,6 @@ allowed people to find regions with densely abundant pollution. NGOs, volunteers
 can then go to these areas and help clean it up. The issue doesnt end there though. Why is trash created? It is
 because plastics dont degrade like bio-materials. if my AI had a way to suggest consumers to shop more consciously,
 that would make the agent even more impactful. 
+
+shivani comments - very interesting, theres just whatsapp grps rn an app to 
+bring people to contribute to a cause they care about in the same space is amazing
